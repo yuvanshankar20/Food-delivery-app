@@ -1,0 +1,42 @@
+.admin-conatainer{
+    margin-top: 95px;
+    margin-left: 28%;
+}
+.card{
+    width: 800px;
+    height: 110px;
+    background-color: rgb(245, 245, 245);
+    margin-top: 15px;
+    box-shadow: 6px 6px 0px 1px rgba(75, 75, 75, 0.19);
+    border-radius: 8px;
+}
+.card img{
+    height: 80px;
+    width: 80px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 8px;
+}
+.card li{
+    display: inline-flex;
+}
+.card h4{
+    margin-left: 30px;
+}
+.card button{
+    margin-top: 40px;
+    border-style: none;
+    height: 30px;
+    width: 110px;
+    background-color: darkorange;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    cursor:pointer; 
+    margin-left: 20px;   
+}
+.div2{
+    width: 400px;
+}
+
